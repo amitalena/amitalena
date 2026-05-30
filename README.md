@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Amit! 👋</h1>
+<h1 align="center">Hi there, I'm Amit Kumar! 👋</h1>
 <h3 align="center">Full Stack Developer | Crafting Scalable & Performant Web Applications</h3>
 
 <p align="center">
