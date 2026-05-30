@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Amit Kumar! 👋</h1>
-<h3 align="center">Full Stack Developer | Crafting Scalable & Performant Web Applications</h3>
+<h3 align="center">Sr. Full Stack Developer | Crafting Scalable & Performant Web Applications</h3>
 
 <p align="center">
   <a href="mailto:amitkumar84946@gmail.com">
